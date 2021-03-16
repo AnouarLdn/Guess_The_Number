@@ -3,7 +3,7 @@ This is a guessing game using HTML/CSS/Javascript
 
 ![Image of the game](https://github.com/AnouarLdn/Guess_The_Number/raw/master/guess-the-number.png)
 
-To access the calculator click here: https://houseofhaidary-guess-the-number.netlify.app/
+To access the calculator click here: https://guess-the-number.houseofhaidary.com/
 
 Or look at the following steps:
 
